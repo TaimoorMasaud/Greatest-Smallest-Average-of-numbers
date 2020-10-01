@@ -27,5 +27,5 @@ int main()
     }
     average=(average+number)/a;
 
-    printf("\nSmallest=%d \nLargest=%d \nAverage=%d",smallest,largest,average);
+    printf("\nSmallest=%d \nLargest=%d \nAverage of %d and %d =%d",smallest,largest,smallest,largest,average);
 }
